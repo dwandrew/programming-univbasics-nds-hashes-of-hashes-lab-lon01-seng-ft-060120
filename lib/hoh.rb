@@ -32,7 +32,7 @@
 
 def naming_system
   
-PORTION_1 = {
+naming_system = {
    label: "Kingdom",
    sub_category: {
      label: "Phylum",
